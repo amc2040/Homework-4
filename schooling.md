@@ -14,5 +14,8 @@ I’m currently in my **third year** studying *Information Technology*.
 ## Why IT is Interesting
 I like IT because of how **versatile** it is, it connects to nearly every industry and offers countless career paths.
 
+
+- [Back to Home](README.md) 
 - [My Interests](interests.md)
-- [My Schooling](schooling.md)
+
+
