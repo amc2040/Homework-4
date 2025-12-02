@@ -17,4 +17,6 @@ Here are some of the hobbies I enjoy:
 - Doodling
 - Ceramics
 
-[Back to Home](README.md) [My Schooling](schooling.md)
+- [Back to Home](README.md) 
+- [My Schooling](schooling.md)
+
