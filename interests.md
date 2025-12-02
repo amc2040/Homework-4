@@ -7,10 +7,6 @@ Here are some of the hobbies I enjoy:
 - Fun
 - Great exercise
 
-## Swimming
-![Swimming Pool](https://upload.wikimedia.org/wikipedia/commons/e/e4/Swimming_pool.jpg)
-
-
 ## Gaming
 - Video games
 - Board games
